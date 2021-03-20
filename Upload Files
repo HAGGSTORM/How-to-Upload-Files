@@ -1,0 +1,7 @@
+Step1: git init
+Step2: git add .
+Step3: git commit -m [message]
+[Step4]: git pull --rebase origin main
+[Step5]: git branch -m master main    
+Step6: git remote add origin (URL)
+Step7: git git push -u origin main    
