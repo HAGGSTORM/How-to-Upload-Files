@@ -8,4 +8,6 @@ Step3: git commit -m [message]
 Step6: git remote add origin (URL)(https://github.com/[NAME]]/[Folder Name.git])[第一次使用,后续再次上传时不用再输入]
 Step7: git git push -u origin main    
 
+解决上传缓慢问题：
+cmd->ipconfig/flushdns
 
