@@ -1,3 +1,5 @@
+How to Upload Files
+
 Step1: git init
 Step2: git add .
 Step3: git commit -m [message]
@@ -5,3 +7,5 @@ Step3: git commit -m [message]
 [Step5]: git branch -m master main    
 Step6: git remote add origin (URL)
 Step7: git git push -u origin main    
+
+
