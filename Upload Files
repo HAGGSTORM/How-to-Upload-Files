@@ -9,5 +9,8 @@ Step6: git remote add origin (URL)(https://github.com/[NAME]]/[Folder Name.git])
 Step7: git git push -u origin main    
 
 解决上传缓慢问题：
+DNS缓存延时，刷新DNS
 cmd->ipconfig/flushdns
 
+解决认证问题：OpenSSL SSL_read: Connection was reset, errno 10054
+git config --global http.sslVerify "false"
